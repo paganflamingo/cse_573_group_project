@@ -1,0 +1,3 @@
+[submodule "cse573-scrapers"]
+	path = cse573-scrapers
+	url = https://github.com/dankbudgie/cse573-scrapers.git
